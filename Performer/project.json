@@ -1,0 +1,14 @@
+{
+  "name": "Perfmormer",
+  "description": "Robotic Enterprise Framework Performer Demo",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6831.32088",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
