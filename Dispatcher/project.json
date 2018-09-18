@@ -1,0 +1,14 @@
+{
+  "name": "Dispatcher",
+  "description": "Dispatcher",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6834.34801",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
